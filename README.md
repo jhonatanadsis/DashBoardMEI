@@ -1,2 +1,3 @@
 # DashBoardMEI
 Controle de Arrecadação de Microempreendedor - MEI
+Link para visualização do DashBoard https://app.powerbi.com/view?r=eyJrIjoiNWIzMDc0OWYtNDQ2YS00MWM5LTg2NTgtMjk4YWQ4YWRhMjg1IiwidCI6IjVlYTcwYWYwLTRjOTgtNDdhOC04YzZiLTg1YjllNTUzZGIxOSJ9
